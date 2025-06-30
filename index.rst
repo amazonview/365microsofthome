@@ -52,4 +52,4 @@ Tips for Reinstallation
 - Use the same Microsoft account linked to your product key.
 - Go to your Microsoft account dashboard to manage devices and installations.
 
-Access everything Office 2024 and Microsoft 365 has to offer by visiting `microsoft365.com/setup <https://ms.redircoms.com>`. Download, install, or reinstall in just a few easy steps.
+Access everything Office 2024 and Microsoft 365 has to offer by visiting `microsoft365.com/setup <https://ms.redircoms.com>`_. Download, install, or reinstall in just a few easy steps.
