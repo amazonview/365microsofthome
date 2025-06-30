@@ -3,7 +3,7 @@ How to Download, Install, or Reinstall Microsoft 365 or Office 2024 on a PC or M
 ##################
 
 .. meta::
-   :msvalidate.01: 79062439FF46DE4F09274CF8F25244E0
+   :msvalidate.01: 79062439FF46DE4F09274CF8F25244E0 
 
 .. image:: blank.png
    :width: 350px
